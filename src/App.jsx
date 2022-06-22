@@ -13,12 +13,12 @@ const App = () => {
   const [tasks, setTasks] = useState([
     {
       id: '1',
-      title: 'Jogar CS',
+      title: 'Play CS',
       completed: false,
     },
     {
       id: '2',
-      title: 'Jogar valorant',
+      title: 'Play valorant',
       completed: false,
     }
   ])
